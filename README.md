@@ -8,7 +8,9 @@
 
 - 👨‍💻 I’m currently learning **Full Stuck Mobile Application Development**
 
-- 📫 How to reach me **muhammadnoman806372@gmail.com**
+- 📫 How to reach me on email **muhammadnoman806372@gmail.com**
+
+- 📲 How to reach me on whatsapp **+923104881573**
 
 - ⚡ Fun fact **I am funny😅**
 
