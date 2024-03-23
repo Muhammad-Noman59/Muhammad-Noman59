@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  <a href="https://wa.me/923104881573" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" height="35" width="35" /></a> <a href="https://fb.com/https://www.facebook.com/profile.php?id=100092720556743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100092720556743" height="35" width="35" /></a> <a href="https://linkedin.com/in/muhammad-noman59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-noman59" height="35" width="35" /></a> </p>
+<p align="left">  <a href="https://wa.me/923104881573" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" height="35" width="35" /></a> <a href="https://www.facebook.com/profile.php?id=100092720556743&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100092720556743" height="35" width="35" /></a> <a href="https://linkedin.com/in/muhammad-noman59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-noman59" height="35" width="35" /></a> </p>
 
 
 
