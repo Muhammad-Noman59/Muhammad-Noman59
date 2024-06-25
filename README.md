@@ -1,12 +1,12 @@
 ![logo](https://github.com/Muhammad-Noman59/Muhammad-Noman59/blob/main/GitHub-Cover-Image.png)
 <h1 align="center">Hi 👋, I'm Muhammad Noman</h1>
-<h3 align="center">I'm Full Stuck Mobile Application Developer</h3>
+<h3 align="center">I'm Full Stack Mobile Application Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-noman59&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-noman59" /> </p>
 
-- 👨‍💻 I’m currently learning **Full Stuck Mobile Application Development**
+- 👨‍💻 I’m currently learning **Full Stack Mobile Application Development**
 
 - 📫 How to reach me on email **muhammadnoman806372@gmail.com**
 
